@@ -1,0 +1,19 @@
+-- slot2
+farm = {
+  "world1",
+  "world2",
+  "world3",
+  "world4",
+  "world5",
+  "world6",
+  "world7",
+  "world8",
+  "world9",
+  "world10",
+  "world11",
+  "world12",
+}
+
+lisensi = "iniWT"
+
+webhook_url = "http://discord.com/api/123123123"
