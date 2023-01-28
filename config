@@ -13,9 +13,9 @@ CONFIG = {
         delay_plant = 200
     },
     Storage_setting = {
-        storage_seed = storage_seed,
+        storage_seed = "perkebunanWT",
         storage_seed_id = EXTERN.id_door,
-        storage_pack = storage_pack,
+        storage_pack = "gudangWT",
         storage_pack_id = EXTERN.id_door
     },
     Break_setting = {
