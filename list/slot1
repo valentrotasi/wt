@@ -13,9 +13,6 @@ farm = {
   "world12",
 }
 
-storage_seed = "perkebunanWT"
-storage_pack = "gudangWT"
-
 lisensi = "iniWT"
 
 webhook_url = "http://discord.com/api/123123123"
