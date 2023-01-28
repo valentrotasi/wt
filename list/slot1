@@ -14,6 +14,6 @@ farm = {
   "world12",
 }
 
-lisensi = "iniWT"
+lisensi = "licensi rotation"
 
 webhook_url = "http://discord.com/api/123123123"
