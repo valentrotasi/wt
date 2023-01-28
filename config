@@ -56,7 +56,7 @@ CONFIG.max_block_to_break = 160
 CONFIG.auto_wear_pickaxe = {
     use_feature = false,
     storage_pickaxe = "",
-    storage_pickaxe_id = ""
+    storage_pickaxe_id = EXTERN.id_door
 }
 
 CONFIG.Custom_delay = {
